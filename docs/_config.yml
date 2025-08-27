@@ -1,0 +1,6 @@
+markdown: kramdown
+kramdown:
+  math_engine: mathjax   # or "jekyll-katex"
+plugins:
+  - jekyll-mathjax      # if using MathJax
+  # - jekyll-katex      # if you prefer KaTeX
